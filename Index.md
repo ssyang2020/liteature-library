@@ -1,4 +1,4 @@
-### A. Viual Generation
+### A. Visual Generation
 #### A.1 3D Generation
 1. Wonderland: Navigating 3D Scenes from a Single Image [https://arxiv.org/pdf/2412.12091]
 
