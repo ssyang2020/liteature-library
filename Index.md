@@ -7,6 +7,8 @@
 1. Large Motion Video Autoencoding with Cross-modal Video VAE [https://arxiv.org/pdf/2412.17805]
 
 **Deep compression VAE**
+1. REDUCIO! Generating 1024x1024 Video within 16 Seconds using Extremely Compressed Motion Latents [https://arxiv.org/html/2411.13552]
+
 
 #### A.3 Foundation Video Diffusion Models
 1. CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer [https://arxiv.org/pdf/2408.06072]
