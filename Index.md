@@ -46,16 +46,27 @@
 2. MiniCPM2.6-o https://github.com/OpenBMB/MiniCPM-o?tab=readme-ov-file
 3. BAICHUAN-OMNI-1.5 https://github.com/baichuan-inc/Baichuan-Omni-1.5
 4. InternLM-XComposer2.5 https://github.com/InternLM/InternLM-XComposer
+5. SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION https://arxiv.org/pdf/2408.12528
+6. Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation https://arxiv.org/pdf/2410.13848
+7. WeGen: A Unified Model for Interactive Multimodal Generation as We Chat https://arxiv.org/pdf/2503.01115
+8. UniTok: A Unified Tokenizer for Visual Generation and Understanding https://arxiv.org/pdf/2502.20321
+9. Generating Images with Multimodal Language Models https://arxiv.org/pdf/2305.17216
+10. Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation https://arxiv.org/pdf/2410.13848
+
 
 #### B.2 Novel learning paradigm
 1. Large Concept Models: Language Modeling in a Sentence Representation Space [https://arxiv.org/pdf/2412.08821]
+
+#### B.3 Inference method 
+1. Autoregressive Image Generation with Vision Full-view Prompt https://arxiv.org/pdf/2502.16965
 
 ### C. Visual Understanding
 #### C.1 Depth Estimation
 1. Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation [https://promptda.github.io/]
 
 ### D. Reinforcement learning
-#### D.1 Learning Paradigm
+#### D.0 Learning Paradigm
 1. Proximal Policy Optimization Algorithms https://arxiv.org/pdf/1707.06347
 2. (GRPO) DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models https://arxiv.org/pdf/2402.03300
+3. Direct Preference Optimization: Your Language Model is Secretly a Reward Model https://arxiv.org/pdf/2305.18290
 
